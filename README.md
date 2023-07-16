@@ -1,5 +1,6 @@
 # So Long
 
+![success](125.png)
 ![Game Screenshot](screenshot.png)
 
 ## Summary
