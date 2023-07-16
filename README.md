@@ -1,6 +1,9 @@
 # So Long
 
-![success](125.png)
+<p align="center" > 
+	<img src="125.png" width="207" />
+</p>
+
 ![Game Screenshot](screenshot.png)
 
 ## Summary
