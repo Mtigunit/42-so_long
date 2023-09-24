@@ -12,7 +12,7 @@ This project is a very small 2D game. Its purpose is to make you work with textu
 ## Objectives
 "So Long" will help you improve your skills in the following areas: window management, event handling, colors, textures, and more.
 
-You are going to use the school graphical library: the MiniLibX! This library was developed internally and includes the basic necessary tools to open a window, create images, and deal with keyboard and mouse events.
+You are going to use the 42 school graphical library: the MiniLibX! This library was developed internally and includes the basic necessary tools to open a window, create images, and deal with keyboard and mouse events.
 
 ## Mandatory Part
 ### Game
